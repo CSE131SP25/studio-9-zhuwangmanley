@@ -46,6 +46,7 @@ public class WordCount {
 		wordList.add("be");
 		Map<String, Integer> words = countWords(wordList);
 		
+		
 		//TODO: Write code that will iterate over the words map
 		//to verify its contents
 	}
